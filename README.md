@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purbarunbc13&label=Profile%20views&color=0e75b6&style=flat" alt="purbarunbc13" /> </p>
 
-- 🔭 I’m currently working on a **Examination Portal**
-
 - 🌱 I’m currently learning **Next js, PostgreSQL, SpringBoot**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purbarunBC13&theme=onedark" alt="purbarunbc13" /></a> </p>
